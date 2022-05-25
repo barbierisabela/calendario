@@ -1,0 +1,23 @@
+body{
+    margin:auto;
+    width: 50%;
+    height: 30%;
+
+}
+.conteiner{
+   font-family: 'noto sans',sans-serif;
+   margin-top:px;
+}
+Th{
+    font-weight: 700;
+    text-align: center;
+    height: 39px;
+}
+Td{
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+th{
+
+}

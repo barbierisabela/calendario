@@ -1,0 +1,23 @@
+html{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body {
+    margin: auto;
+    width: 20%;
+}
+
+.container {
+
+}
+
+td {
+    text-align: center;
+    background-color:deeppink;   
+    font-weight: 600;
+}
+
+th{
+
+}
